@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FitzgeraldChris
-- 👀 I’m interested in Data Analyst, Programming Analyst & Data Science
+- 👀 I’m interested in Data Analyst, Programming Developer in C++ and Python & Data Science
 - 🌱 I’m currently learning Tensor Flow.
 - 💞️ I’m looking to collaborate on large database queries.
 - 📫 How to reach me via email at Chris.Fitzgerald12@gmail.com
